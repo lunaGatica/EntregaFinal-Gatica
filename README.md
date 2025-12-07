@@ -1,6 +1,6 @@
 # EntregaFinal-Gatica
 
-SmokingCute E-commerce - Backend API:
+SmokingCute E-commerce:
 SmokingCute es una API RESTful desarrollada en Java Spring Boot para un e-commerce especializado en la venta de ceniceros de diversas variedades y personalizados. Este backend proporciona todas las funcionalidades necesarias para gestionar productos, pedidos, usuarios y el carrito de compras.
 
 Características Principales:
