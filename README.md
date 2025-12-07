@@ -12,13 +12,12 @@ Backend (Java Spring Boot)
 ✅ Autenticación y autorización
 ✅ Validaciones y manejo de excepciones
 ✅ Integración con base de datos MySQL
-Frontend (React)
+Frontend (React):
 ✅ Catálogo interactivo de ceniceros
 ✅ Sistema de filtros avanzados
 ✅ Carrito de compras
 ✅ Personalizador de productos
 ✅ Panel de administración
-
-✅ Diseño responsive y moderno
+✅ Diseño responsive y mode
 
 ✅ Gestión de pedidos en tiempo real
